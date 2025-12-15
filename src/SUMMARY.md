@@ -4,3 +4,4 @@
     - [Vector operators](./math/_operator.md)
 - [Geodesic](./geodesic.md)
     - [Fisher-Rao information matrix on Gaussian](./geodesic/fisher_rao_gaussian.md)
+- [Deep Learning](./deep_learning.md)
